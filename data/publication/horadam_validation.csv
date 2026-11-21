@@ -1,0 +1,133 @@
+case,P,Q,W0,W1,n,degenerate,det_exact,det_closed_form_matches,eigenvalue_formula_max_rel_error,singular,singularity_criterion_matches,explicit_inverse_matches
+alternating Lucas,-1,-1,-2,1,2,False,3,True,2.8575091980104907e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,3,False,52,True,5.117875266520903e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,4,False,0,True,3.0616169978683826e-16,True,True,
+alternating Lucas,-1,-1,-2,1,5,False,-33047,True,3.036303322416437e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,6,False,-861952,True,3.6912253317844415e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,7,False,934561222,True,5.4010568001195e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,8,False,359089453125,True,3.184081677783118e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,9,False,-1394035930929152,True,1.1355452758923282e-15,False,True,True
+alternating Lucas,-1,-1,-2,1,10,False,-5499366235206395112,True,3.197688864440311e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,11,False,108270704273608787560927,True,3.05927033196171e-16,False,True,True
+alternating Lucas,-1,-1,-2,1,12,False,3590079701896396800000000000,True,5.383103358923392e-16,False,True,True
+Lucas,1,-1,2,1,2,False,3,True,1.2246467991473532e-16,False,True,True
+Lucas,1,-1,2,1,3,False,-18,True,5.152929661935582e-17,False,True,True
+Lucas,1,-1,2,1,4,False,0,True,6.123233995736766e-17,True,True,
+Lucas,1,-1,2,1,5,False,8347,True,1.6156118112431426e-16,False,True,True
+Lucas,1,-1,2,1,6,False,-861952,True,3.9396239757363357e-16,False,True,True
+Lucas,1,-1,2,1,7,False,-391524998,True,1.1268877164669671e-16,False,True,True
+Lucas,1,-1,2,1,8,False,359089453125,True,1.909526225626372e-16,False,True,True
+Lucas,1,-1,2,1,9,False,893329160995712,True,2.868046871557545e-16,False,True,True
+Lucas,1,-1,2,1,10,False,-5499366235206395112,True,1.604870563715409e-16,False,True,True
+Lucas,1,-1,2,1,11,False,-87687141416511254851323,True,1.7708230174706546e-16,False,True,True
+Lucas,1,-1,2,1,12,False,3590079701896396800000000000,True,1.708417979593284e-15,False,True,True
+Fibonacci,1,-1,0,1,2,False,-1,True,1.2246467991473532e-16,False,True,True
+Fibonacci,1,-1,0,1,3,False,-2,True,2.237726045655906e-16,False,True,True
+Fibonacci,1,-1,0,1,4,False,16,True,5.551115123125783e-17,False,True,True
+Fibonacci,1,-1,0,1,5,False,287,True,1.3180544067764318e-16,False,True,True
+Fibonacci,1,-1,0,1,6,False,-16128,True,4.517333031985021e-16,False,True,True
+Fibonacci,1,-1,0,1,7,False,-2192140,True,1.7763568394002508e-16,False,True,True
+Fibonacci,1,-1,0,1,8,False,830952837,True,1.8852159868368755e-16,False,True,True
+Fibonacci,1,-1,0,1,9,False,805644641664,True,2.796117247204098e-16,False,True,True
+Fibonacci,1,-1,0,1,10,False,-2080690769701456,True,1.805479384179835e-16,False,True,True
+Fibonacci,1,-1,0,1,11,False,-14002804169885909807,True,2.280389987260805e-16,False,True,True
+Fibonacci,1,-1,0,1,12,False,247753675148653634781184,True,1.7931747940373856e-15,False,True,True
+alternating Fibonacci,-1,-1,0,1,2,False,-1,True,3.6739403974420594e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,3,False,0,True,4.655441079085602e-16,True,True,
+alternating Fibonacci,-1,-1,0,1,4,False,16,True,3.367778697655221e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,5,False,-191,True,4.253197538116342e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,6,False,-16128,True,3.450761968497135e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,7,False,1998812,True,4.517304161159533e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,8,False,830952837,True,3.2286142886612035e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,9,False,-783022678272,True,1.1802623455658751e-15,False,True,True
+alternating Fibonacci,-1,-1,0,1,10,False,-2080690769701456,True,3.0128391160117733e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,11,False,13860241037073406767,True,3.407676513397621e-16,False,True,True
+alternating Fibonacci,-1,-1,0,1,12,False,247753675148653634781184,True,3.874023137739808e-16,False,True,True
+Pell,2,-1,0,1,2,False,-1,True,0.0,False,True,True
+Pell,2,-1,0,1,3,False,-9,True,1.992911320093939e-16,False,True,True
+Pell,2,-1,0,1,4,False,640,True,1.2412670766236366e-16,False,True,True
+Pell,2,-1,0,1,5,False,252100,True,2.746540079113342e-16,False,True,True
+Pell,2,-1,0,1,6,False,-597791376,True,5.256566157408904e-16,False,True,True
+Pell,2,-1,0,1,7,False,-8252767236301,True,1.6888389471556573e-16,False,True,True
+Pell,2,-1,0,1,8,False,665993168101048320,True,3.9781796367216087e-16,False,True,True
+Pell,2,-1,0,1,9,False,313398861092499186897912,True,3.266863152920001e-16,False,True,True
+Pell,2,-1,0,1,10,False,-859858277306561684298748471552,True,3.3815240250331947e-16,False,True,True
+Pell,2,-1,0,1,11,False,-13751722491910335588624048111158497953,True,2.855830186825447e-16,False,True,True
+Pell,2,-1,0,1,12,False,1281922118247965546737056182821273600000000000,True,1.7851510092507668e-15,False,True,True
+Pell-Lucas,2,-1,2,2,2,False,0,True,6.123233995736766e-17,True,True,
+Pell-Lucas,2,-1,2,2,3,False,-160,True,1.4043333874306804e-16,False,True,True
+Pell-Lucas,2,-1,2,2,4,False,30720,True,1.0467283057891835e-16,False,True,True
+Pell-Lucas,2,-1,2,2,5,False,40698368,True,1.225073682345e-16,False,True,True
+Pell-Lucas,2,-1,2,2,6,False,-287462318080,True,5.79924419953591e-16,False,True,True
+Pell-Lucas,2,-1,2,2,7,False,-11609770670497792,True,2.378364907828677e-16,False,True,True
+Pell-Lucas,2,-1,2,2,8,False,2690126057672779235328,True,2.7864421010200007e-16,False,True,True
+Pell-Lucas,2,-1,2,2,9,False,3607458120562882425114460160,True,3.6498410881447125e-16,False,True,True
+Pell-Lucas,2,-1,2,2,10,False,-28092093800637880096932100621467648,True,2.1380277316444136e-16,False,True,True
+Pell-Lucas,2,-1,2,2,11,False,-1272810650683980493909054087349457614012416,True,2.7600633498965664e-16,False,True,True
+Pell-Lucas,2,-1,2,2,12,False,335842485620257650616972967812434461982720000000000,True,1.6457439448909645e-15,False,True,True
+Jacobsthal,1,-2,0,1,2,True,,,,,,
+Jacobsthal,1,-2,0,1,3,False,-2,True,2.9738116731030977e-16,False,True,True
+Jacobsthal,1,-2,0,1,4,True,,,,,,
+Jacobsthal,1,-2,0,1,5,False,3550,True,1.9860273225978186e-16,False,True,True
+Jacobsthal,1,-2,0,1,6,True,,,,,,
+Jacobsthal,1,-2,0,1,7,False,-1836901122,True,2.2479681212229917e-16,False,True,True
+Jacobsthal,1,-2,0,1,8,True,,,,,,
+Jacobsthal,1,-2,0,1,9,False,232359327416616230,True,2.0898315757650005e-16,False,True,True
+Jacobsthal,1,-2,0,1,10,True,,,,,,
+Jacobsthal,1,-2,0,1,11,False,-7253734084030799027493188842,True,2.2920733411616134e-16,False,True,True
+Jacobsthal,1,-2,0,1,12,True,,,,,,
+"complex roots (1,1)",1,1,2,-1,2,False,3,True,6.803593328596407e-17,False,True,True
+"complex roots (1,1)",1,1,2,-1,3,False,38,True,3.2617851663974972e-16,False,True,True
+"complex roots (1,1)",1,1,2,-1,4,False,208,True,3.7206171324696126e-16,False,True,True
+"complex roots (1,1)",1,1,2,-1,5,False,-33,True,1.268972567849247e-15,False,True,True
+"complex roots (1,1)",1,1,2,-1,6,True,,,,,,
+"complex roots (1,1)",1,1,2,-1,7,False,-2186,True,1.2766581971632497e-15,False,True,True
+"complex roots (1,1)",1,1,2,-1,8,False,-108363,True,8.647231147801721e-16,False,True,True
+"complex roots (1,1)",1,1,2,-1,9,False,-2453888,True,1.1234972299198704e-15,False,True,True
+"complex roots (1,1)",1,1,2,-1,10,False,-3255208,True,1.1478146167107724e-15,False,True,True
+"complex roots (1,1)",1,1,2,-1,11,False,2049,True,4.695219675935928e-15,False,True,True
+"complex roots (1,1)",1,1,2,-1,12,True,,,,,,
+"complex roots (2,5)",2,5,1,1,2,False,0,True,3.061616997868383e-17,True,True,
+"complex roots (2,5)",2,5,1,1,3,False,16,True,4.0029660424867215e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,4,False,15360,True,3.5108334685767007e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,5,False,-53504,True,2.9564913419593276e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,6,False,-4524298240,True,1.4401475719378743e-15,False,True,True
+"complex roots (2,5)",2,5,1,1,7,False,-296767867572224,True,3.234652930265649e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,8,False,-15421502593695744,True,5.708481255819507e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,9,False,-3139645931525133540982784,True,6.21367011870191e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,10,False,-6150879713507501485725371596800,True,4.29635338408718e-16,False,True,True
+"complex roots (2,5)",2,5,1,1,11,False,16979119072208459944919056170090496,True,1.2915276861506222e-15,False,True,True
+"complex roots (2,5)",2,5,1,1,12,False,5369380767774308839901731160904358087876411392,True,1.348578526363971e-15,False,True,True
+repeated root 2,4,4,1,3,2,False,-8,True,4.422335663587663e-17,False,True,True
+repeated root 2,4,4,1,3,3,False,-468,True,2.093456611578367e-16,False,True,True
+repeated root 2,4,4,1,3,4,False,151424,True,1.3877787807814457e-16,False,True,True
+repeated root 2,4,4,1,3,5,False,246976400,True,1.6011864169946886e-16,False,True,True
+repeated root 2,4,4,1,3,6,False,-1940579462016,True,5.458596537740353e-16,False,True,True
+repeated root 2,4,4,1,3,7,False,-71409471778888768,True,1.9032394707859825e-16,False,True,True
+repeated root 2,4,4,1,3,8,False,12059330873396002021376,True,2.2887833992611187e-16,False,True,True
+repeated root 2,4,4,1,3,9,False,9200735569536638905641095424,True,4.0689482653531e-16,False,True,True
+repeated root 2,4,4,1,3,10,False,-31316751111702101476245893781862400,True,2.808666774861361e-16,False,True,True
+repeated root 2,4,4,1,3,11,False,-470632059742437583493715685954221786653696,True,2.8693954234537687e-16,False,True,True
+repeated root 2,4,4,1,3,12,False,30958212583932233905051446918245966052407736238080,True,1.8023798249275798e-15,False,True,True
+repeated root -3,-6,9,2,-1,2,False,3,True,3.878048197299952e-16,False,True,True
+repeated root -3,-6,9,2,-1,3,False,1793,True,5.902998363414491e-16,False,True,True
+repeated root -3,-6,9,2,-1,4,False,43596000,True,2.84655363021278e-16,False,True,True
+repeated root -3,-6,9,2,-1,5,False,-7675190643428,True,2.8073854162090057e-16,False,True,True
+repeated root -3,-6,9,2,-1,6,False,-13312894424791087152,True,5.222425782678032e-16,False,True,True
+repeated root -3,-6,9,2,-1,7,False,229316437053149447966653103,True,4.969586605856084e-16,False,True,True
+repeated root -3,-6,9,2,-1,8,False,39911785650975014833818746880000000,True,2.5879521886469407e-16,False,True,True
+repeated root -3,-6,9,2,-1,9,False,-69489114375052192743516078025107366533984138,True,5.229729732374826e-16,False,True,True
+repeated root -3,-6,9,2,-1,10,False,-1203254041679714539314461380252825709318145361099053312,True,2.997155401289341e-16,False,True,True
+repeated root -3,-6,9,2,-1,11,False,205579603159969500308360981731174570466070189440772997334801101373,True,3.25877975611147e-16,False,True,True
+repeated root -3,-6,9,2,-1,12,False,344274407971073583464143178247551021663709541209460940736437959987200000000000,True,5.681249067069975e-16,False,True,True
+random integers,-2,5,3,1,2,False,8,True,2.143131898507868e-16,False,True,True
+random integers,-2,5,3,1,3,False,4732,True,5.888565582983637e-16,False,True,True
+random integers,-2,5,3,1,4,False,833536,True,2.5533334316921466e-16,False,True,True
+random integers,-2,5,3,1,5,False,122836208,True,2.764646461192895e-16,False,True,True
+random integers,-2,5,3,1,6,False,-60409097828352,True,5.776197543238537e-16,False,True,True
+random integers,-2,5,3,1,7,False,-90200413180848448,True,3.336424668541701e-16,False,True,True
+random integers,-2,5,3,1,8,False,677836871379009404928,True,3.9437116303978845e-16,False,True,True
+random integers,-2,5,3,1,9,False,-1489205504938074771835353629952,True,8.42067073115157e-16,False,True,True
+random integers,-2,5,3,1,10,False,-2208993524955994317583557328371712,True,5.350220221844276e-16,False,True,True
+random integers,-2,5,3,1,11,False,-1853415764638446683927659608133751293518848,True,5.026454023880215e-16,False,True,True
+random integers,-2,5,3,1,12,False,51310997951238650579925691830444135343910534690897920,True,6.571856751147391e-16,False,True,True

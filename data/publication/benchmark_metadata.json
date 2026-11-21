@@ -1,0 +1,46 @@
+{
+  "timestamp_utc": "2026-11-21T11:53:47Z",
+  "python": "3.14.6",
+  "numpy": "2.5.0",
+  "scipy": "1.18.1",
+  "pandas": "3.0.3",
+  "sympy": "1.14.0",
+  "blas": [
+    {
+      "internal_api": "openblas",
+      "version": "0.3.33.112.0",
+      "architecture": "Haswell",
+      "num_threads": 1
+    },
+    {
+      "internal_api": "openblas",
+      "version": "0.3.31.dev",
+      "architecture": "Haswell",
+      "num_threads": 1
+    }
+  ],
+  "platform": "Windows-10-10.0.19045-SP0",
+  "processor": "Intel64 Family 6 Model 142 Stepping 9, GenuineIntel",
+  "threads": {
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sizes": [
+    10,
+    50,
+    100,
+    200,
+    500,
+    700,
+    1000,
+    1400
+  ],
+  "sessions": 3,
+  "repeats": 9,
+  "warmup": 3,
+  "target_batch_seconds": 0.05,
+  "statistic": "median over sessions of per-session medians",
+  "matrix_assembly_included_in_timing": false
+}
